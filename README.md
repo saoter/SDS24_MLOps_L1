@@ -4,9 +4,9 @@ This repository contains lecutre slides, python scripts and dataset for the firs
 
 
 ## API
-- **ex_jokes.py** is an example of simple public API
-- **ex_finance.py**, **ex_news.py** are examples of private API using API_key (You need to register to get your private key)
-- **ex_datasets.py** is an example of API Wrapper
+- **api_jokes.py** is an example of simple public API
+- **api_finance.py**, **api_news.py** are examples of private API using API_key (You need to register to get your private key)
+- **api_datasets.py** is an example of API Wrapper
 - EXTRA: **joke_app.py** is a simple streamlit app that uses IPA to print jokes
 
 
