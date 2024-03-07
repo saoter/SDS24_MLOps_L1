@@ -8,6 +8,8 @@ This repository contains lecutre slides, python scripts and dataset for the firs
 
 ## Database
 
+![Schema](Images/schema.jpg)
+
 - **db_create.py** reads in excel file and transform it into SQL database
 - **db_queries.py** contains a few query examples
 - **db_add_datapoints** add new transactions
