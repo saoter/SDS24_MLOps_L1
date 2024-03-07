@@ -8,7 +8,10 @@ This repository contains lecutre slides, python scripts and dataset for the firs
 
 ## Database
 
-![Schema](images/schema.jpg)
+<p align="center">
+  <img src="images/schema.jpg" alt="Schema" width="400"/>
+</p>
+
 
 - **db_create.py** reads in excel file and transform it into SQL database
 - **db_queries.py** contains a few query examples
