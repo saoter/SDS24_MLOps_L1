@@ -8,6 +8,7 @@ This repository contains lecutre slides, python scripts and dataset for the firs
 - **api_finance.py**, **api_news.py** are examples of private API using API_key (You need to register to get your private key)
 - **api_datasets.py** is an example of API Wrapper
 - EXTRA: **joke_app.py** is a simple streamlit app that uses IPA to print jokes
+- EXTRA: **api_weather.py** exercise from the class
 
 
 
